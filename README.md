@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shakeeb 👋
 
-<!--
-**CreativeShakeeb/CreativeShakeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student currently pursuing my CEH certification.
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web Application Security
+- OSINT
+- Network Security
+- GRC
+
+## Currently Learning
+
+- CEH (Certified Ethical Hacker)
+
+## Tools & Technologies
+
+- Linux
+- Git
+- Nmap
+- Wireshark
+
+## Projects
+
+Will add Projects, security tools and lab writeups here as I build them.
