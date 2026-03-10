@@ -1,16 +1,14 @@
 # Hi, I'm Shakeeb 👋
 
-Cybersecurity student currently pursuing my CEH certification.
+I'm currently studying my bachelor's in computer of science with strog interest in Cyber security.
 
-## Areas of Interest
+## Role
 
-- Web Application Security
-- OSINT
-- Network Security
-- GRC
+-Cyber Security Professional
 
 ## Currently Learning
 
+- Backelor's of Science in computer Science.
 - CEH (Certified Ethical Hacker)
 
 ## Tools & Technologies
