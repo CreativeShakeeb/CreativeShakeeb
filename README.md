@@ -4,7 +4,7 @@ I'm currently studying my bachelor's in computer of science with strog interest 
 
 ## Role
 
--Cyber Security Professional
+- Cyber Security Professional
 
 ## Currently Learning
 
