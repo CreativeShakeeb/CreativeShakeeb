@@ -1,6 +1,6 @@
 # Hi, I'm Shakeeb 👋
 
-I'm currently studying my bachelor's in computer of science with strog interest in Cyber security.
+I'm currently studying my bachelor's in computer of science with strong interest in Cyber security.
 
 ## Role
 
